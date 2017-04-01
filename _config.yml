@@ -6,7 +6,7 @@ description: 欢迎来到我的个人站~
 avatarTitle: 黄波
 # 头像里面的描述
 avatarDesc: PHP / Linux / Nginx / Mysql
-url: "https://huangbo-bo.github.io/blog/"
+url: "https://huangbo-bo.github.io/"
 
 # Comment
 #comment:
@@ -42,7 +42,7 @@ social:
 # 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
 
-permalink: /blog/:year/:month/:title/#blog
+permalink: /:year/:month/:title/#blog
 # Format
 highlighter: rouge
 
@@ -57,9 +57,9 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/blog/archive'}   
-    - {title: 标签, description: tags, url: '/blog/tags'}      
-    - {title: 关于我, description: about, url: '/blog/about'}      
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 关于我, description: about, url: '/about'}      
     
 
 # Pagination
