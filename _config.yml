@@ -1,35 +1,35 @@
 # Basic
-title: 潘柏信
+title: 黄波
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: 黄波
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: PHP / Linux / Nginx / Mysql
+url: "https://huangbo-bo.github.io/blog/"
 
 # Comment
-comment:
-    # disqus: leopard
-    duoshuo: leopard 
+#comment:
+#    # disqus: leopard
+#    duoshuo: leopard 
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 1855760120
+    github: huangbo-bo
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 316254128@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+#baidu:
+#    id: 8ba1c6be0953b6f9c2ba38e57f615421  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3   
-    host: auto  
+#ga:
+#    id: UA-84134159-3   
+#    host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -57,9 +57,9 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 所有文章, description: archive, url: '/blog/archive'}   
+    - {title: 标签, description: tags, url: '/blog/tags'}      
+    - {title: 关于我, description: about, url: '/blog/about'}      
     
 
 # Pagination
