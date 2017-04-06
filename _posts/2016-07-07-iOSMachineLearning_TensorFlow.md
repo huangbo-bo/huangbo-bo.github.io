@@ -156,6 +156,3 @@ error: Xcode 7.3.0 or later is required.
 * [如何评价Tensorflow和其它深度学习系统](http://weibo.com/p/1001603907610737775666)    
 * [深度学习框架大战正在进行，谁将夺取“深度学习工业标准”的荣耀？](http://www.algorithmdog.com/%E8%B0%81%E5%B0%86%E5%A4%BA%E5%8F%96%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%B8%9A%E6%A0%87%E5%87%86%E7%9A%84%E8%8D%A3%E8%80%80)  
 
-<br>
-
-转载请注明：[潘柏信的博客](http://baixin) » [点击阅读原文](http://baixin.io/2016/07/iOSMachineLearning_TensorFlow/)        
